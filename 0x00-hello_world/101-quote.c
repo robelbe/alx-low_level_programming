@@ -2,10 +2,10 @@
 #include <string.h>
 #include <unistd.h>
 /**
- * main- entry point
+ * Main- entry point
  * Description: 'for a function that print a text'
  *
- * return: Always 1 (succes)
+ * Return: Always 1 (succes)
  *
  */
 

@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- * main: entry point 
+ * main: entry point
+ *
  * Description: 'a function that print size of var'
  *
  * return: always 0 (success)
