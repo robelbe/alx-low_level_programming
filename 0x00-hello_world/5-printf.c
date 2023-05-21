@@ -1,11 +1,11 @@
 #include <stdio.h>
-
-/** main: function that prin a string using printf
- *
- * return: succes
+/**
+ * main: entry for a function that prin a string using printf
+ * return: always 0 (succes)
  */
-int main()
+int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
-	return(0);
+
+	return (0);
 }
