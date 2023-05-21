@@ -1,6 +1,8 @@
 #include <stdio.h>
 /**
- * main: entry for a function that prin a string using printf
+ * main: entry point
+ *
+ * Description: 'for a function that prin a string using print'
  * return: always 0 (succes)
  */
 int main(void)
