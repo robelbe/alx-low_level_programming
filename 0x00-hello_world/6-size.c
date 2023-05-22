@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
- * main: entry point
+ * Main: entry point
  *
  * Description: 'a function that print size of var'
  *
- * return: always 0 (success)
+ * Return: always 0 (success)
  */
 
 int main(void)
